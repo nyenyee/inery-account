@@ -1,0 +1,2 @@
+# inery-account
+auto create
