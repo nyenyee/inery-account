@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-curl-class/php-curl-class": "^9.12",
+        "fzaninotto/faker": "^1.9",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
